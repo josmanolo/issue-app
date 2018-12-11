@@ -62,7 +62,7 @@ class IssueForm extends Component{
 		fetch('https://api.github.com/repos/josmanolo/issues-list/issues', {
 		  headers: {
 		    "Content-Type" : "application/vnd.github.v3+json",
-			"Authorization" : "token f17ca56c5552e27ee0073fcfc428eeb4eb52c7b8"
+			"Authorization" : "token c0c20f1de9775022b78418531b1c6416f3b1e9bb"
 		  },
 		  method: 'POST',
 		  body: JSON.stringify(data),
