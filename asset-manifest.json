@@ -1,7 +1,7 @@
 {
   "main.css": "/issue-app/static/css/main.412894bc.chunk.css",
-  "main.js": "/issue-app/static/js/main.e460934e.chunk.js",
-  "main.js.map": "/issue-app/static/js/main.e460934e.chunk.js.map",
+  "main.js": "/issue-app/static/js/main.4668727d.chunk.js",
+  "main.js.map": "/issue-app/static/js/main.4668727d.chunk.js.map",
   "static/js/1.4ea10408.chunk.js": "/issue-app/static/js/1.4ea10408.chunk.js",
   "static/js/1.4ea10408.chunk.js.map": "/issue-app/static/js/1.4ea10408.chunk.js.map",
   "runtime~main.js": "/issue-app/static/js/runtime~main.a3ab788a.js",
@@ -9,6 +9,6 @@
   "static/media/issue.svg": "/issue-app/static/media/issue.f8567058.svg",
   "static/css/main.412894bc.chunk.css.map": "/issue-app/static/css/main.412894bc.chunk.css.map",
   "index.html": "/issue-app/index.html",
-  "precache-manifest.4ab6bcd1c41491cb1051ddc91ae0c1e1.js": "/issue-app/precache-manifest.4ab6bcd1c41491cb1051ddc91ae0c1e1.js",
+  "precache-manifest.9aebe89a9af4a2628d32f68dc5ab5ade.js": "/issue-app/precache-manifest.9aebe89a9af4a2628d32f68dc5ab5ade.js",
   "service-worker.js": "/issue-app/service-worker.js"
 }
